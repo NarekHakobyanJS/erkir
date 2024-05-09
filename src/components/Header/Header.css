@@ -1,0 +1,17 @@
+
+.o{
+    position: relative;
+}
+.open {
+    width: 240px;
+    height: 400px;
+    position: absolute; 
+    top : 0;
+    right: 0;
+    background-color: white;
+    overflow-y: scroll;
+}
+
+.open > img {
+    width: 210px;
+}
